@@ -1,0 +1,45 @@
+Index: TaskJDBC.iml
+===================================================================
+diff --git a/TaskJDBC.iml b/TaskJDBC.iml
+new file mode 100644
+--- /dev/null	
++++ b/TaskJDBC.iml	
+@@ -0,0 +1,15 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module version="4">
++  <component name="FacetManager">
++    <facet type="jpa" name="JPA">
++      <configuration>
++        <setting name="validation-enabled" value="true" />
++        <setting name="provider-name" value="Hibernate" />
++        <datasource-mapping>
++          <factory-entry name="TaskJDBC" value="a7aa1230-52ea-4b62-9907-de5f6bdce885" />
++        </datasource-mapping>
++        <naming-strategy-map />
++      </configuration>
++    </facet>
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/libraries/Maven__antlr_antlr_2_7_7.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__antlr_antlr_2_7_7.xml b/.idea/libraries/Maven__antlr_antlr_2_7_7.xml
+new file mode 100644
+--- /dev/null	
++++ b/.idea/libraries/Maven__antlr_antlr_2_7_7.xml	
+@@ -0,0 +1,14 @@
++<component name="libraryTable">
++  <library name="Maven: antlr:antlr:2.7.7">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.7/antlr-2.7.7.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.7/antlr-2.7.7-javadoc.jar!/" />
++      <root url="https://docs.jboss.org/hibernate/orm/5.6/javadocs/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.7/antlr-2.7.7-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
